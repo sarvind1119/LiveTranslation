@@ -30,7 +30,7 @@ This is a lightweight PyQt5 application that captures live speech through your m
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/speech-translation-overlay.git
+   git clone https://github.com/sarvind1119/speech-translation-overlay.git
    cd speech-translation-overlay
    ```
 
