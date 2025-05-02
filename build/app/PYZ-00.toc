@@ -1,0 +1,496 @@
+('C:\\Users\\HP\\Documents\\2025\\May '
+ '2025\\LiveTranslation\\build\\app\\PYZ-00.pyz',
+ [('PyQt5',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\ast.py',
+   'PYMODULE'),
+  ('azure', '-', 'PYMODULE'),
+  ('azure.cognitiveservices', '-', 'PYMODULE'),
+  ('azure.cognitiveservices.speech',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\__init__.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.audio',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\audio.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.dialog',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\dialog.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.enums',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\enums.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.intent',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\intent.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.interop',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\interop.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.languageconfig',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\languageconfig.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.properties',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\properties.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.speech',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\speech.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.transcription',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\transcription.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.translation',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\translation.py',
+   'PYMODULE'),
+  ('azure.cognitiveservices.speech.version',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\azure\\cognitiveservices\\speech\\version.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\calendar.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\dis.py',
+   'PYMODULE'),
+  ('dotenv',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\dotenv\\__init__.py',
+   'PYMODULE'),
+  ('dotenv.ipython',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\dotenv\\ipython.py',
+   'PYMODULE'),
+  ('dotenv.main',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\dotenv\\main.py',
+   'PYMODULE'),
+  ('dotenv.parser',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\dotenv\\parser.py',
+   'PYMODULE'),
+  ('dotenv.variables',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\site-packages\\dotenv\\variables.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\lzma.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\optparse.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\socket.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\uu.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\HP\\Documents\\2025\\May '
+   '2025\\LiveTranslation\\venv\\lib\\zipimport.py',
+   'PYMODULE')])

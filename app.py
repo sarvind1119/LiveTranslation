@@ -10,7 +10,7 @@ import azure.cognitiveservices.speech as speechsdk
 load_dotenv()
 
 INDIAN_LANG_CODES = {
-    "Hindi": "hi",
+   "Hindi": "hi",
     "Bengali": "bn",
     "Telugu": "te",
     "Marathi": "mr",
