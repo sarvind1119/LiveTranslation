@@ -13,9 +13,9 @@ __pycache__/
 # Ignore environment variable file
 .env
 
-# VSCode settings (optional)
-.vscode/
 
-# Mac OS / Linux / Windows system files
-.DS_Store
-Thumbs.db
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
